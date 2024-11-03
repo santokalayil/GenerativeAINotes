@@ -1,0 +1,1 @@
+poetry add pandas polars pyarrow diagrams
